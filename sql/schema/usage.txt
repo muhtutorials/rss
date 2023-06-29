@@ -1,0 +1,2 @@
+run in this folder to apply migrations
+goose mysql "root:@/rss?parseTime=true" up
